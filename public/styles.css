@@ -225,8 +225,6 @@ footer {
   flex-direction: column;
   gap: .5rem;
   padding: 1.5rem;
-  border: var(--clr-accent-100) solid 1px;
-  border-radius: 12px;
 }
 
 .testimonial > div {
